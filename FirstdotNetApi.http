@@ -1,0 +1,6 @@
+@FirstdotNetApi_HostAddress = http://localhost:5258
+
+GET {{FirstdotNetApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
