@@ -42,3 +42,4 @@ C:\Users\kpasha\dotnet\FirstdotNetApi\obj\Debug\net8.0\refint\FirstdotNetApi.dll
 C:\Users\kpasha\dotnet\FirstdotNetApi\obj\Debug\net8.0\FirstdotNetApi.pdb
 C:\Users\kpasha\dotnet\FirstdotNetApi\obj\Debug\net8.0\FirstdotNetApi.genruntimeconfig.cache
 C:\Users\kpasha\dotnet\FirstdotNetApi\obj\Debug\net8.0\ref\FirstdotNetApi.dll
+C:\Users\kpasha\dotnet\FirstdotNetApi\obj\Debug\net8.0\FirstdotNetApi.sourcelink.json
